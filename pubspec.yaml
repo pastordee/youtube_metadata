@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.1 # To make the http request
+  http: ^1.0.0 # To make the http request
   html: ^0.15.0 # parse html
 
 dev_dependencies:
